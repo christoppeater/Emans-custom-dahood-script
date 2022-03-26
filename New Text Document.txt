@@ -1,4 +1,4 @@
-if game.PlaceId == 2788229376 then
+if game.PlaceId == 5602055394 then
 
    game.Players.LocalPlayer:Kick("get beamed by havefuniy124")
 
